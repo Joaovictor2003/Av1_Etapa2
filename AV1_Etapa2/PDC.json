@@ -1,0 +1,50 @@
+[
+  {
+    "nome": "Superman",
+    "numero": "93",
+    "foto": "img/superman.jpg",
+    "cargo": "Presidente"
+  },
+  {
+    "nome": "Batman",
+    "numero": "93",
+    "foto": "img/batman.jpg",
+    "cargo": "Governador(a)"
+  },
+  {
+    "nome": "Mulher-Maravilha",
+    "numero": "930",
+    "foto": "img/mulher-maravilha.jpg",
+    "cargo": "Senador(a)"
+  },
+  {
+    "nome": "Flash",
+    "numero": "9304",
+    "foto": "img/flash.jpg",
+    "cargo": "Deputado(a) Federal"
+  },
+  {
+    "nome": "Lanterna Verde",
+    "numero": "93005",
+    "foto": "img/lanterna-verde.jpg",
+    "cargo": "Deputado(a) Estadual"
+  },
+  {
+    "nome": "Aquaman",
+    "numero": "93006",
+    "foto": "img/aquaman.jpg",
+    "cargo": "Deputado(a) Estadual"
+  },
+  {
+    "nome": "Ciborgue",
+    "numero": "9307",
+    "foto": "img/ciborgue.jpg",
+    "cargo": "Deputado(a) Federal"
+  },
+  {
+    "nome": "Arqueiro Verde",
+    "numero": "931",
+    "foto": "img/arqueiro-verde.jpg",
+    "cargo": "Senador(a)"
+  }
+]

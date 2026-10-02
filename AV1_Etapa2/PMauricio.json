@@ -1,0 +1,44 @@
+[
+  {
+    "nome": "Mônica",
+    "numero": "941",
+    "foto": "img/Monica.png",
+    "cargo": "Senador(a)"
+  },
+  {
+    "nome": "Cebolinha",
+    "numero": "94",
+    "foto": "img/cebolinha.jpg",
+    "cargo": "Presidente"
+  },
+  {
+    "nome": "Cascão",
+    "numero": "94",
+    "foto": "img/cascao.jpg",
+    "cargo": "Governador(a)"
+  },
+  {
+    "nome": "Magali",
+    "numero": "9401",
+    "foto": "img/magali.png",
+    "cargo": "Deputado(a) Federal"
+  },
+  {
+    "nome": "Chico Bento",
+    "numero": "9402",
+    "foto": "img/chico bento.png",
+    "cargo": "Deputado(a) Federal"
+  },
+  {
+    "nome": "Franjinha",
+    "numero": "94001",
+    "foto": "img/franjinha.png",
+    "cargo": "Deputado(a) Estadual"
+  },
+  {
+    "nome": "Bidú",
+    "numero": "94002",
+    "foto": "img/bidu.jpg",
+    "cargo": "Deputado(a) Estadual"
+  }
+]
